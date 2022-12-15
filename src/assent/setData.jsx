@@ -1,0 +1,72 @@
+export const data = [
+  {
+    id: "25038",
+    first_name: "Olimov Asqarali",
+    phone: "+998977159400",
+    number: "31511962610020",
+    model: "Remi 10 prime",
+  },
+  {
+    id: "77777",
+    first_name: "Usmonov Eldor",
+    phone: "+998976239405",
+    number: "30508982610020 ",
+    model: "Redmi 10 prime",
+  },
+  {
+    id: "45056",
+    first_name: "Baxtiyorov Xaliljon",
+    phone: "+998901025896",
+    number: "33794159494991",
+    model: "Redmi 10 prime",
+  },
+  {
+    id: "25038",
+    first_name: "Olimov Asqarali",
+    phone: "+998977159400",
+    number: "31511962610020",
+    model: "Remi 10 prime",
+  },
+  {
+    id: "77777",
+    first_name: "Usmonov Eldor",
+    phone: "+998976239405",
+    number: "30508982610020 ",
+    model: "Redmi 10 prime",
+  },
+  {
+    id: "45056",
+    first_name: "Baxtiyorov Xaliljon",
+    phone: "+998901025896",
+    number: "33794159494991",
+    model: "Redmi 10 prime",
+  },
+  {
+    id: "25038",
+    first_name: "Olimov Asqarali",
+    phone: "+998977159400",
+    number: "31511962610020",
+    model: "Remi 10 prime",
+  },
+  {
+    id: "77777",
+    first_name: "Usmonov Eldor",
+    phone: "+998976239405",
+    number: "30508982610020 ",
+    model: "Redmi 10 prime",
+  },
+  {
+    id: "45056",
+    first_name: "Baxtiyorov Xaliljon",
+    phone: "+998901025896",
+    number: "33794159494991",
+    model: "Redmi 10 prime",
+  },
+  {
+    id: "25038",
+    first_name: "Olimov Asqarali",
+    phone: "+998977159400",
+    number: "31511962610020",
+    model: "Remi 10 prime",
+  }
+];
